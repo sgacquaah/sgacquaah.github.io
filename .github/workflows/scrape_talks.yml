@@ -15,8 +15,16 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  scrape-build-deploy:
+  jobs:
+  # Look for the job identifier in your file (e.g., 'deploy' or 'scrape-build-deploy')
+  your-deployment-job-name:
     runs-on: ubuntu-latest
+    
+    # --- ADD THIS SECTION ---
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    # ------------------------
 
     steps:
       - name: Checkout
