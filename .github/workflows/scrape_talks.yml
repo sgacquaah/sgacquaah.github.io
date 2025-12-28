@@ -32,7 +32,7 @@ jobs:
       - name: Install deps
         run: |
           pip install -U jupyter pandas requests beautifulsoup4 geopy getorg
-
+ 
       - name: Execute notebook
         run: |
           jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
