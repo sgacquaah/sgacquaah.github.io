@@ -15,7 +15,6 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  jobs:
   # Look for the job identifier in your file (e.g., 'deploy' or 'scrape-build-deploy')
   your-deployment-job-name:
     runs-on: ubuntu-latest
