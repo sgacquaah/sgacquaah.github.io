@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Seth Graham-Acquaah"
 title_separator          : "-"
 name                     : &name "Seth Graham-Acquaah"
-description              : &description "I am an applied microeconomist and behavioral economist who utilizes experimental and causal inference techniques in my research. My current research interests are in Labor Economics, Development Economics, Entrepreneurship and Diversity."
+description              : &description "A seasoned food science and technology leader with 15+ years of experience driving innovation, optimizing manufacturing and thermal processes, advancing AI-enabled quality systems, and aligning cross-functional teams to deliver business impact and product excellence."
 url                      : https://gee1225.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gee1225/gee1225.github.io"
@@ -23,13 +23,13 @@ repository               : "gee1225/gee1225.github.io"
 author:
   # Biographic information
   avatar           : "Image.png"
-  name             : "George Agyeah"
+  name             : "Seth Graham-Acquaah"
   pronouns         : # example: "she/her"  
-  bio              : "Economist, Data Scientist, Data Analyst"
-  location         : "Texas"
-  employer         : "Walmart"
+  bio              : "Certified Food Scientist, Data Scientist, Data Analyst"
+  location         : "North West Arkansas"
+  employer         : "Tyson Foods"
   uri              : # URL
-  email            : "georgeagyeah@yahoo.com" 
+  email            : "grahamacquaah@gmail.com
 
   # Academic websites
   academia         : # URL
