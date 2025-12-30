@@ -22,7 +22,7 @@ repository               : "sgacquaah/sgacquaah.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Image_sga.png"
+  avatar           : "images/Imagesga.png"
   name             : "Seth Graham-Acquaah"
   pronouns         : # example: "she/her"
   bio              : "Certified Food Scientist, Data Scientist, Data Analyst, Thermal Process Authority, Food Manufacturing"
