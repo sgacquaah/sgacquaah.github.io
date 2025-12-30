@@ -3,7 +3,7 @@ title: "Quantifying Milling Effects on Paste Viscosities, Gelling Rates, and Gel
 collection: publications
 category: manuscripts
 permalink: #
-excerpt: 'This study explores how the integration of newcomers with diverse social identities impacts coordination and cooperation in dynamic teams.'
+excerpt: 'This study looked at several popular Arkansas rice types to understand how turning brown rice into white (milled) rice changes how the rice flour behaves when cooked or used in food products.'
 date: 2024-01-01
 venue: 'Rice End-Use'
 paperurl: ''
