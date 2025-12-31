@@ -1,16 +1,13 @@
 ---
-title: "Principles of Macroeconomics"
+title: "Introduction to Food Processing"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-spring-macroeconomics
-venue: "University of Arkansas, Department of Economics"
-date: 2023-01-01
+permalink: 
+venue: "University of Arkansas, Department of Food Science"
+date: 2019-09-01
 location: "Fayetteville, AR, USA"
 ---
 
-Taught four semesters with class sizes ranging from 65 to 148 students. The course emphasized core macroeconomic concepts including GDP, inflation, monetary/fiscal policy, and economic growth. 
+Taught Introduction to Food Processing Food Science undergraduate class. Also held practical sessions and demonstrations on the impact of fundamental factors such as water in food, heat treatments, and pH on microorganisms and how well foods can be preverved.
 
-**Highlights:**
-- Achieved average teaching evaluations of 4.37/5 and 4.32/5
-- Highly praised for clarity, engagement, and respectfulness in classroom
-- Integrated active learning, group discussions, and critical thinking exercises
+
