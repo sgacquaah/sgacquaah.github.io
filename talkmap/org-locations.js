@@ -1,10 +1,5 @@
 var addressPoints = [
   [
-    "When the Modes of Interaction Matter: Virtual and In-person Integration of Newcomers<br />SEA Conference; San Antonio, TX, USA",
-    29.4246002,
-    -98.4951405
-  ],
-  [
     "The PhD Life<br />Western Illinois University; Macomb, IL, USA",
     40.4588934,
     -90.6713939
