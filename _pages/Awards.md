@@ -10,7 +10,7 @@ author_profile: true
 Service and leadership
 ======
 * 2019: Cereals and Grains Association and University of Arkansas Student Travel Scholarship 
-  * With Sherry Li  
+  * 
   * Amount: $1150
   * Award Number: 
 
