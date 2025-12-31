@@ -1,13 +1,13 @@
 ---
-title: "Anticipated Discrimination, Group Membership, and Means of Performance Measurements"
+title: " Rice paste viscosities and gel texture resulting from varying drying and tempering regimen"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-01-04-anticipated-discrimination
-excerpt: 'Explores how individuals’ expectations of bias based on group identity influence their workplace performance and investment behavior.'
-date: 2024-01-04
-venue: 'With Yufei Ren'
+DOI: 10.1002/cche.10362
+excerpt: 'Examines how different drying conditions affect the end-use properties of rice.'
+date: 2020-10-11
+journal: 'Cereal Chemistry'
 paperurl: ''
-citation: 'Agyeah, G. & Ren, Y. (2024). "Anticipated Discrimination, Group Membership, and Means of Performance Measurements."'
+citation: 'Graham‐Acquaah, S. and Siebenmorgen, T.J. 2020. Rice paste viscosities and gel texture resulting from varying drying and tempering regimen. Cereal Chemistry 98(2), 475-484. DOI: 10.1002/cche.10362"'
 ---
 
-This research investigates how beliefs about discrimination and evaluator group membership affect an individual’s performance and workplace investment decisions. Through an experimental design using naturally occurring group identities, the study explores how anticipated bias shapes behavior and outcomes, emphasizing the subjective nature of perceived discrimination in professional environments.
+Heated-air drying followed by resting (tempering) helps rice dry faster, but this study shows that these heating steps also change how rice behaves when cooked or processed, especially its thickness and firmness. The temperature, how long the rice stays hot, and even the surrounding air conditions all influence these texture and viscosity changes, sometimes quite dramatically. This means drying conditions should be chosen not just to protect yield, but also to control and even intentionally design rice quality for specific food products, including gluten-free foods..
