@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "The PhD Life<br />Western Illinois University; Macomb, IL, USA",
-    40.4588934,
-    -90.6713939
+    "Physical properties and end-use characteristics of Arkansas rice cultivars<br />2021 Rice Industry Alliance Meeting; Fayetteville, AR, USA",
+    36.0625843,
+    -94.1574328
   ],
   [
     "Food Fortification in Ghana: Current Status<br />WAAFoST Training Workshop on Food Fortification and Entrepreneurship; Dakar, Senegal",
