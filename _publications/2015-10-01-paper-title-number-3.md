@@ -1,13 +1,13 @@
 ---
-title: "When the Modes of Interaction Matter: Virtual and In-Person Integration of Newcomers in a Dynamic Setting"
+title: "A proposed method for quantifying thermal exposure incurred during rough-rice drying"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-01-03-virtual-onboarding
-excerpt: 'Analyzes the impact of virtual versus in-person onboarding of newcomers on team performance in evolving organizational settings.'
+DOI: 10.13031/trans.14063
+excerpt: 'Proposes a method for quantifying thermal exposure incurred by rough rice during drying'
 date: 2024-01-03
-venue: 'With Miguel Cuellar and Sherry Li'
+journal: 'Transactions of the ASABE'
 paperurl: ''
-citation: 'Agyeah, G., Cuellar, M., & Li, S. (2024). "When the Modes of Interaction Matter: Virtual and In-Person Integration of Newcomers in a Dynamic Setting."'
+citation: 'Graham‐Acquaah, S. and Siebenmorgen, T.J. 2020. A proposed method for quantifying thermal exposure incurred during rough-rice drying. Transactions of the ASABE 64 (2), 475-484. DOI: 10.13031/trans.14063'
 ---
 
-The COVID-19 pandemic triggered a shift to remote work, reshaping team dynamics. This paper examines how onboarding methods—virtual vs. in-person—affect team cooperation and newcomer performance. By manipulating introduction methods, the study evaluates how integration impacts outcomes for both incumbents and newcomers, offering evidence for best practices in hybrid team structures.
+Most rice in the U.S. is dried using heated air, and this drying process behaves a lot like heat-based food sterilization because both follow similar scientific “rate of change” patterns. Since different dryers use different temperatures, humidity levels, and drying times—and these differences affect rice quality—this study set out to create a standard way to measure how much total heat a batch of rice experiences during drying. The research developed new values to describe how quickly rice loses moisture with heat and then combined them into a single index that shows how intense a drying process is compared to a standard reference temperature
