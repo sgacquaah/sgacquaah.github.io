@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 DOI: 10.13031/trans.14063
 excerpt: 'Proposes a method for quantifying thermal exposure incurred by rough rice during drying'
-date: 2024-01-03
+date: 2020-11-15
 journal: 'Transactions of the ASABE'
 paperurl: ''
 citation: 'Graham‐Acquaah, S. and Siebenmorgen, T.J. 2020. A proposed method for quantifying thermal exposure incurred during rough-rice drying. Transactions of the ASABE 64 (2), 475-484. DOI: 10.13031/trans.14063'
