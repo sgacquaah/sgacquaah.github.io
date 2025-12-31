@@ -20,8 +20,8 @@ var addressPoints = [
     -117.162772
   ],
   [
-    "Racial and Gender Diversity, Newcomers and Team Performance in a Dynamic Setting<br />AEAMP Conference; Washington, DC, USA",
-    38.8950368,
-    -77.0365427
+    "Functional Data Explorer (FDE) for analyzing viscosity profiles of rice<br />Statistics Workshop, 2021 Rice Industry Alliance Meeting; Fayetteville, AR, USA",
+    36.0625843,
+    -94.1574328
   ]
 ];
