@@ -15,9 +15,9 @@ var addressPoints = [
     -80.8430827
   ],
   [
-    "Racial and Gender Diversity, Newcomers and Team Performance in a Dynamic Setting<br />WEAI Conference; San Diego, CA, USA",
-    32.7174202,
-    -117.162772
+    "Rice Grain Quality Evaluation<br />Africa Rice Training Center, St Louis, Senegal; St Louis, Senegal",
+    16.0280445,
+    -16.5048686
   ],
   [
     "Functional Data Explorer (FDE) for analyzing viscosity profiles of rice<br />Statistics Workshop, 2021 Rice Industry Alliance Meeting; Fayetteville, AR, USA",
