@@ -10,9 +10,9 @@ var addressPoints = [
     -90.6713939
   ],
   [
-    "Racial and Gender Diversity, Newcomers and Team Performance in a Dynamic Setting<br />ESA North America Conference; Charlotte, NC, USA",
-    35.2272086,
-    -80.8430827
+    "Food Fortification in Ghana: Current Status<br />WAAFoST Training Workshop on Food Fortification and Entrepreneurship; Dakar, Senegal",
+    14.693425,
+    -17.447938
   ],
   [
     "Rice Grain Quality Evaluation<br />Africa Rice Training Center, St Louis, Senegal; St Louis, Senegal",
