@@ -8,8 +8,6 @@ redirect_from:
 ---
 I am food science and technology leader specializing in innovation, product development, thermal processing, quality systems, and AI-driven continuous improvement.
 
-
-
 Selected Achievements
 ======
 1. Uncovered $10M enterprise cost savings opportunities through analytics dashboard redesign at Tyson Foods.
