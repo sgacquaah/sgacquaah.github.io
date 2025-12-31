@@ -24,15 +24,15 @@ Education
 
 Work experience
 ======
-* Instructor – University of Arkansas (2020–2023)  
-  * Taught Principles of Macroeconomics, Experimental Software Programming, and Basic Economics  
-* Teaching Assistant – University of Arkansas (2020–2023)  
-  * Assisted in Experimental Economics and Econometrics courses
+* Senior Food Scientist II – Tyson Foods (2025-present)  
+  * Ingredients Solutions Group
+* Site Sterilization Expert/Quality and Food Safety Technologist – Mars Food and Nutrition (2022–2025)  
+  * Thermal Process Authority for site
 
 Skills
 ======
-* Programming: Python, R, SQL, SAS (Certified), STATA, Tableau, MATLAB, HTML, JavaScript  
-* Languages: English (Native), Russian (Proficient), French (Beginner), Twi (Native), Frafra (Native)  
+* Programming: R, SAS Quality Methods(Certified), STATA, JMP, MATLAB, SPSS, Minitab, Cal Soft, NumeriCAL,   
+* Languages: English (Native), French (Proficient), Twi (Native)
 * Work Authorization: U.S. Green Card Holder
 
 Publications
