@@ -16,4 +16,3 @@ Selected Achievements
 2. Reduced product holds by 30% at Mars Inc. by simplifying thermal process governance, improving KPIs and customer supply reliability.
 3. Achieved a 15% increase in production efficiency via data-driven food safety program.
 4. Trained and mentored 100+ associates globally in regulatory compliance, fostering a culture of ownership and integrity in food safety programs.
-
