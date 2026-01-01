@@ -5,7 +5,7 @@ category: manuscripts
 DOI: 10.1002/cche.10413
 excerpt: 'Thermal exposure values during heated-air drying were estimated and related to changes in rice end-use quality .'
 date: 2021-02-04
-journal: 'Cereal Chemistry'
+venue: 'Cereal Chemistry'
 paperurl: ''
 citation: 'Graham-Acquaah, S., Siebenmorgen, T.J., Mauromostakos, A. and Wang, Y.-J. 2021. Thermal exposure values for predicting changes in rice end-use properties. Cereal Chemistry 98, 693-700. DOI: 10.1002/cche.10413'
 ---
