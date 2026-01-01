@@ -5,7 +5,7 @@ category: manuscripts
 DOI: 10.1002/cche.10362
 excerpt: 'Examines how different drying conditions affect the end-use properties of rice.'
 date: 2020-10-11
-journal: 'Cereal Chemistry'
+venue: 'Cereal Chemistry'
 paperurl: ''
 citation: 'Graham‐Acquaah, S. and Siebenmorgen, T.J. 2020. Rice paste viscosities and gel texture resulting from varying drying and tempering regimen. Cereal Chemistry 98(2), 475-484. DOI: 10.1002/cche.10362"'
 ---
